@@ -2,7 +2,7 @@
 - 👀 I’m interested in graphic design and arts
 - 🌱 I’m currently learning visual communication design and currently build my design portfolio
 - 💞️ I’m looking to collaborate on various design or visual art related projects
-- 📫 Reach me through charityqueency91@gmail.com or instagram @charity.queency
+- 📫 Reach me through charityqueency91@gmail.com or instagram @charityqueency
 
 <!---
 charityqueency/charityqueency is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
